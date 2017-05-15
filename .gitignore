@@ -62,4 +62,4 @@ node_modules
 .vscode/symbols.json
 .vscode-test
 .vscode
-.db
+*.db
